@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">transwhere-ui</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_shake">检测到震动！</string>
+</resources>
